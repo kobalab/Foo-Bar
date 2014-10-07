@@ -5,7 +5,9 @@ use warnings;
 
 use version; our $VERSION = qv(0.6.0);
 
-
+sub hello {
+    return "Hello, world!\n";
+}
 
 1;
 __END__
@@ -14,11 +16,13 @@ __END__
 
 =head1 NAME
 
-Foo::Bar - It's new $module
+Foo::Bar - I'm trying Minilla :)
 
 =head1 SYNOPSIS
 
     use Foo::Bar;
+
+	print Foo::Bar::hello;
 
 =head1 DESCRIPTION
 
