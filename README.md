@@ -1,10 +1,12 @@
 # NAME
 
-Foo::Bar - It's new $module
+Foo::Bar - I'm trying Minilla :)
 
 # SYNOPSIS
 
     use Foo::Bar;
+
+        print Foo::Bar::hello;
 
 # DESCRIPTION
 
