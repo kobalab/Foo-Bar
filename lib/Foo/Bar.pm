@@ -3,7 +3,7 @@ use 5.008001;
 use strict;
 use warnings;
 
-use version; our $VERSION = qv(0.6.0);
+use version; our $VERSION = qv(v0.6);
 
 sub hello {
     return "Hello, world!\n";

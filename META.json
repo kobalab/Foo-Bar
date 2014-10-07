@@ -52,5 +52,15 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "v0.6.0"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/kobalab/Foo-Bar/issues"
+      },
+      "homepage" : "https://github.com/kobalab/Foo-Bar",
+      "repository" : {
+         "url" : "https://github.com/kobalab/Foo-Bar.git",
+         "web" : "https://github.com/kobalab/Foo-Bar"
+      }
+   },
+   "version" : "v0.6"
 }
