@@ -2,5 +2,8 @@ name = "Foo-Bar"
 # badges = ["travis"]
 module_maker="ModuleBuildTiny"
 
+[PL_files]
+lib/Foo/Bar/Env.pm.PL="lib/Foo/Bar/Env.pm"
+
 [release]
 do_not_upload_to_cpan=true

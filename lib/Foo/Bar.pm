@@ -5,6 +5,8 @@ use warnings;
 
 use version; our $VERSION = qv(v0.6);
 
+use Foo::Bar::Env;
+
 sub hello {
     return "Hello, world!\n";
 }
