@@ -2,6 +2,10 @@ Revision history for Perl extension Foo-Bar
 
 {{$NEXT}}
 
+v0.6.1 2014-10-08T13:49:41Z
+
+	- test 'PL_files'
+
 v0.6 2014-10-07T13:37:18Z
 
     - initial version
