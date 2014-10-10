@@ -1,5 +1,4 @@
-my $pm_file = 'lib/Foo/Bar/Env.pm';
-#my $pm_file = shift;
+my $pm_file = shift;
 open my $fh, '>', $pm_file      or die "$pm_file: $!";
 
 chomp( my $git = `which git` );

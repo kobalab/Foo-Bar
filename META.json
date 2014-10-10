@@ -4,7 +4,7 @@
       "Satoshi Kobayashi <koba@yk.rim.or.jp>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v2.1.1, CPAN::Meta::Converter version 2.142690",
+   "generated_by" : "Minilla/v2.1.3, CPAN::Meta::Converter version 2.142690",
    "license" : [
       "perl_5"
    ],
@@ -28,7 +28,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Module::Build::Tiny" : "0.035"
+            "Module::Build" : "0.38"
          }
       },
       "develop" : {
@@ -54,12 +54,13 @@
    "release_status" : "unstable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/kobalab/Foo-Bar/issues"
+         "web" : "https://https///git@github.com/kobalab/Foo-Bar/issues"
       },
-      "homepage" : "https://github.com/kobalab/Foo-Bar",
+      "homepage" : "https://https///git@github.com/kobalab/Foo-Bar",
       "repository" : {
-         "url" : "https://github.com/kobalab/Foo-Bar.git",
-         "web" : "https://github.com/kobalab/Foo-Bar"
+         "type" : "git",
+         "url" : "git://https///git@github.com/kobalab/Foo-Bar.git",
+         "web" : "https://https///git@github.com/kobalab/Foo-Bar"
       }
    },
    "version" : "v0.6.1"
