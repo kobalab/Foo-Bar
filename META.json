@@ -54,13 +54,13 @@
    "release_status" : "unstable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://https///git@github.com/kobalab/Foo-Bar/issues"
+         "web" : "https://github.com/kobalab/Foo-Bar/issues"
       },
-      "homepage" : "https://https///git@github.com/kobalab/Foo-Bar",
+      "homepage" : "https://github.com/kobalab/Foo-Bar",
       "repository" : {
          "type" : "git",
-         "url" : "git://https///git@github.com/kobalab/Foo-Bar.git",
-         "web" : "https://https///git@github.com/kobalab/Foo-Bar"
+         "url" : "https://github.com/kobalab/Foo-Bar.git",
+         "web" : "https://github.com/kobalab/Foo-Bar"
       }
    },
    "version" : "v0.6.2"
