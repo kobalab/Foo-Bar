@@ -3,7 +3,7 @@ use 5.008001;
 use strict;
 use warnings;
 
-use version; our $VERSION = qv(v0.6.2);
+use version; our $VERSION = qv(v0.6.3);
 
 use Foo::Bar::Env;
 
