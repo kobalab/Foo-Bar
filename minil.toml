@@ -1,6 +1,6 @@
 name = "Foo-Bar"
 # badges = ["travis"]
-module_maker="ModuleBuild"
+module_maker="ModuleBuildTiny"
 
 [PL_files]
 lib/Foo/Bar/Env.pm.PL="lib/Foo/Bar/Env.pm"
